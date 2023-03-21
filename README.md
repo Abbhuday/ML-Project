@@ -4,6 +4,6 @@ I have made the following ML project for my college assignment. In this machine 
 
 Machine learning modeling to predict stroke in patients uses the K-Nearest Neighbors Classifier algorithm. This algorithm works based on existing features and similarities between these features to classify targets.
 
-baseline_model = KNeighborsClassifier()
-
+**baseline_model = KNeighborsClassifier()
+**
 At the beginning of making the model, the K-NearestNeighborsClassifier model is used with default parameters and when the results are shown the classification achieves an accuracy of 97.5% which has reached the target of model accuracy.
